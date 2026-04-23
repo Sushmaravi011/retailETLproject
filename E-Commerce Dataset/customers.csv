@@ -1,0 +1,26 @@
+customer_id,first_name,last_name,email,phone,country,city,postcode,created_at,marketing_opt_in,customer_segment,lifetime_value,repeat_customer
+CUS_00000001,Danielle,Johnson,danielle.johnson@hotmail.com,533-521-8196x001,France,Paris,75011,4/20/2024 10:23,TRUE,new,0,FALSE
+CUS_00000002,William,Johnson,william.johnson@hotmail.com,886.737.9402,United Kingdom,London,EC1A 1BB,7/15/2022 2:17,TRUE,loyal,9562.55,TRUE
+CUS_00000003,Joshua,Lewis,joshua.lewis@hotmail.com,001-851-316-1559x40781,United States,Seattle,98104,1/27/2025 20:32,TRUE,new,26.58,FALSE
+CUS_00000004,Andrea,Calderon,andrea.calderon@outlook.com,+1-659-931-0341x316,United States,Los Angeles,90028,7/3/2025 12:20,FALSE,new,904.73,TRUE
+CUS_00000005,Cynthia,Diaz,cynthia.diaz@outlook.com,(653)541-9283x276,Australia,Sydney,2010,5/11/2025 1:56,FALSE,new,0,FALSE
+CUS_00000006,Gabrielle,Cameron,gabrielle.cameron@yahoo.com,001-903-405-6413x95376,France,Bordeaux,33300,6/8/2025 0:32,FALSE,casual,0,FALSE
+CUS_00000007,Joseph,Wright,joseph.wright@gmail.com,-11132,Canada,Toronto,M4B 1B3,7/24/2025 5:47,FALSE,new,84.9,FALSE
+CUS_00000008,Christopher,Williams,christopher.williams@examplemail.test,922-669-1669,United States,Boston,2108,12/27/2024 11:41,TRUE,casual,0,FALSE
+CUS_00000009,Tasha,Valencia,tasha.valencia@outlook.com,9182451462,Spain,Bilbao,48007,1/16/2025 11:44,FALSE,new,1071.66,TRUE
+CUS_00000010,Stephanie,Liu,stephanie.liu@gmail.com,282-781-4893x252,Spain,Bilbao,48007,12/15/2023 10:39,FALSE,new,1548.52,TRUE
+CUS_00000011,Tracy,Rodriguez,tracy.rodriguez@outlook.com,(443)903-9117x182,United States,Seattle,98104,10/1/2025 12:27,FALSE,new,0,FALSE
+CUS_00000012,Stacey,Martin,stacey.martin@fastmail.com,,Netherlands,Amsterdam,1054 LB,10/25/2023 16:57,TRUE,new,689.55,TRUE
+CUS_00000013,Matthew,Chapman,matthew.chapman@fastmail.com,793.301.0310,Germany,Berlin,10115,11/5/2024 2:09,FALSE,new,0,FALSE
+CUS_00000014,Willie,Ramirez,willie.ramirez@examplemail.test,838.729.9737x6311,Germany,Munich,80539,7/25/2023 2:35,TRUE,new,0,FALSE
+CUS_00000015,Rodney,Owens,rodney.owens@gmail.com,,Germany,Munich,80539,11/30/2023 7:16,TRUE,new,1137.4,TRUE
+CUS_00000016,Joshua,Wright,joshua.wright@yahoo.com,478-810-8013,France,Lyon,69007,3/28/2024 8:17,TRUE,new,0,FALSE
+CUS_00000017,Todd,Lewis,todd.lewis@fastmail.com,(502)660-6474x6872,United States,Denver,80246,8/9/2025 5:46,FALSE,casual,0,FALSE
+CUS_00000018,Jeff,Brown,jeff.brown@fastmail.com,001-380-450-0978x8208,United Kingdom,Leeds,LS11 5PS,12/11/2025 5:15,TRUE,loyal,388.49,FALSE
+CUS_00000019,Casey,Jones,casey.jones@hotmail.com,361.893.9909,United Kingdom,London,SW1A 1AA,2/13/2024 17:08,FALSE,new,0,FALSE
+CUS_00000020,Diane,Cunningham,diane.cunningham@protonmail.com,343-353-4624x75107,Netherlands,Utrecht,3512 GH,4/25/2023 23:54,FALSE,new,289.87,FALSE
+CUS_00000021,Amanda,Wagner,amanda.wagner@icloud.com,,Germany,Frankfurt,60306,3/6/2023 13:31,FALSE,new,0,FALSE
+CUS_00000022,Elizabeth,Spencer,elizabeth.spencer@hotmail.com,+1-612-941-1824x49353,Canada,Toronto,M5H 2N2,11/9/2022 8:33,FALSE,casual,0,FALSE
+CUS_00000023,John,Odonnell,john.odonnell@icloud.com,4169400524,Germany,Hamburg,20354,9/14/2025 23:32,TRUE,vip,2160.05,TRUE
+CUS_00000024,Andrea,Patterson,andrea.patterson@outlook.com,4118280598,Germany,Frankfurt,60306,7/19/2023 11:34,TRUE,casual,0,FALSE
+CUS_00000025,David,Parker,david.parker@examplemail.test,4535315869,Canada,Montreal,H1A 0A1,8/31/2025 7:18,TRUE,casual,496.45,FALSE
