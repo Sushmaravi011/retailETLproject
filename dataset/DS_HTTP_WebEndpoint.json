@@ -1,0 +1,30 @@
+{
+	"name": "DS_HTTP_WebEndpoint",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_HTTP_WebService",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"sourcepath": {
+				"type": "String"
+			}
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation",
+				"relativeUrl": {
+					"value": "@dataset().sourcepath",
+					"type": "Expression"
+				}
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}

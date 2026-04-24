@@ -1,0 +1,38 @@
+{
+	"name": "DS_ADLS_DynamicFiles",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_ADLS_TargetStorage",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"dest_folder_name": {
+				"type": "String"
+			},
+			"dest_file_name": {
+				"type": "String"
+			}
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": {
+					"value": "@dataset().dest_file_name",
+					"type": "Expression"
+				},
+				"folderPath": {
+					"value": "@dataset().dest_folder_name",
+					"type": "Expression"
+				},
+				"fileSystem": "bronze"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}
