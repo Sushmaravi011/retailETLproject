@@ -1,0 +1,15 @@
+{
+	"name": "adfecomproject1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "63caf5b7-eb3d-47d5-9726-12c495e3dbc3",
+		"tenantId": "65c01425-da68-4c89-ba11-0de36643919e"
+	}
+}
